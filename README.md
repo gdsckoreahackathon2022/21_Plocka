@@ -10,6 +10,8 @@
 # 2022 GDSC KR Winter Hack
 [💻 해커톤 설명페이지](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bcd83556-b931-41e1-8497-ec08c1bfda82/Info_Brochure.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220204%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220204T204721Z&X-Amz-Expires=86400&X-Amz-Signature=be1011cba05c0cfe25461ef1428b506b5e2719966b01cdfbb4cdf32884eae9b4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Info%2520Brochure.pdf%22&x-id=GetObject)
 본 프로젝트는 GDSC KR 2022 Winter Hack에 참여하는 프로젝트임을 밝힙니다.
+발표자료 링크 : https://docs.google.com/presentation/u/1/d/13o0nnkGRWKr0AJrwAm0O5z7oa03Mvr61aRkPc91sQSI/edit?usp=sharing
+
 
 # 🏃 서비스 소개
 
@@ -108,3 +110,4 @@
 |김서연|ReactNative|https://github.com/flowersayo|
 |박철현|ReactNative|https://github.com/CreamMeatball|
 
+![KakaoTalk_20220205_115408427](https://user-images.githubusercontent.com/86418674/152629557-68af5d5b-0aea-4a28-a9c4-7025861bc8ca.png)
